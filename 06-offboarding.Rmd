@@ -8,14 +8,14 @@ Everybody will at some point leave the group. Degrees get completed, jobs are ob
 
 ## Exit Interview
 
-Set up a dedicated time to meet with Gavin and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future. 
-[Checklist for students, staff, and post docs](https://docs.google.com/document/d/1Z0Czwr3lRPGCgA-OP2WLGpWizJvsIUZ7_NOgVI4AfnQ/edit?usp=sharing)
+Set up a dedicated time to meet with your advisor and/or your main collaborator (for undergraduate researchers) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future. 
+[to do: check and adapt this for us] [Checklist for students, staff, and post docs](https://docs.google.com/document/d/1Z0Czwr3lRPGCgA-OP2WLGpWizJvsIUZ7_NOgVI4AfnQ/edit?usp=sharing)
 
 ## Project Documentation 
 
-Project work should be hosted either in a github repository linked to from the faylab account, or saved on the lab_fay server drive (prefereably both).  
+Project work should be hosted either in a github repository linked to from the nau-paleoclimate account, or saved on the NAU paleoclimate google drive.  
 
-Each project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if propietary data). Ideally, the README should also include links to publications and presentations from the work.  
+Each project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if proprietary data). Ideally, the README should also include links to publications and presentations from the work.  
 
 ## Publications and Presentations
 
@@ -38,16 +38,20 @@ Code used or developed for the project should be:
  
 ## Timelines for publications
 
-Science is not finished until it has been communicated. Hopefully, you will publish your results in the peer-reviewed literature so that others can learn and build from your work. During your exit interview, make a plan with Gavin for remaining publications, including a timeline for submission.   
+Science is not finished until it has been communicated. Hopefully, you will publish your results in the peer-reviewed literature so that others can learn and build from your work. During your exit interview, make a plan with your advisor for remaining publications, including a timeline for submission.   
 
 ## Turning in equipment
 
-Ensure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for, and that tagged equipment has been logged in with Ashleigh. Make sure any problems with equipment are documented and that Gavin and Ashleigh have been made aware of them.  
+Ensure any lab equipment you have been using has been returned to the lab, office furniture is present and accounted for.
 
 ## Lab library
 
 Return all books checked out from the lab library.  
 
-## Removing key card access
+## Keys
 
-Key card access to the SMAST facilities will be terminated at the end of your contract. During your exit interview, discuss with Gavin whether modifications need to be made to this timeline.  
+Return your keys to E&S staff in the main office.
+
+## Affiliate status
+
+Depending on your plans and the status of on going work, it may be appropriate to become an affiliate with NAU after you leave. Please discuss this with your advisor at your exit interview. 

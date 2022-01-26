@@ -1,32 +1,30 @@
 # Computing resources {#computing}
 
-Because our work is quantitative, research computing skills are an important part of your toolset. Most of our team uses the open source software `R` for a lot of their workflow, though you probably want to also learn an additional tool during your time in the lab (for many, the natural choice here is `TMB` and/or `ADMB`, as these `C++` template languages are the basis for many statistical population dynamics models in fisheries stock assessment).  
+Because our work often is quantitative, research computing skills are an important part of your toolset. Our team uses the open source software `R`  and `python` for a lot of their workflow, and some of us still use `Matlab` when we have to. If you're not comfortable with scientific programming yet, that's ok, don't let it intimidate you! You can do a great thesis without being a computing wizard. However, gaining at least familiarity with the tools is worth the time investment. Fortunuately, there are heaps of resources (including your labmates!) to help you with your learning.  
 
-Fortunuately, there are heaps of resources (including your labmates!) to help you with your learning.  
+## Overview of Computing at NAU
+As a student of NAU, Information Technology Services (CITS) provides access to essential resources and help when you need it. Information on how to set up your NAU login can be found on the [Somewhere, TBD](). A list of available programs and licensed software can be found on the [Software Licensing page]().
 
-
-## Overview of Computing at UMassD
-As a student of UMass Dartmouth, the Computing and Information Technology Services (CITS) provides access to essential resources and help when you need it. Information on how to set up your UMass login and access the UMassD portal can be found on the [New Students UMassD CITS webpage](https://www.umassd.edu/cits/newstudent/). A list of available programs and licensed software can be found on the [Software Licensing page](https://www.umassd.edu/cits/software/).
-
-## SMAST computing facilities
-Once you are set up with your UMass login, you will need to submit an SMAST IT Access Request Form to gain access to the SMAST Server. This form can be found under the SMAST Occupants page, Information Technology section through the UMassD portal. If you have additional questions or issues, you can email SMAST IT through [smastsupport@umassd.edu](mailto:smastsupport@umassd.edu). 
+## Hig performance computing facilities at NAU
+Once you are set up with your NAU login, you will need to submit an Access Request Form to gain access to Monsoon our HPC cluster. This form can be found [here](https://in.nau.edu/hpc/).
 
 ## Administrator Privileges
-As your computer is your main piece of lab research equipment, it is important to be able to use it effectively. Please ensure you are familiar with procedures for and have the ability to make changes on your computer as an administrator.   
+Your computer is often your main piece of lab research equipment, it is important to be able to use it effectively. Please ensure you are familiar with procedures for and have the ability to make changes on your computer as an administrator.   
 
 ## Remote meetings via Zoom
 
-UMassD uses Zoom as its conference call software solution. Everyone should activate their Zoom Pro account which is part of the university license.  Information on how to set this up can be found [here](https://instructionaldev.umassd.edu/zoom/). 
+NAU uses Zoom as its conference call software solution. Everyone should activate their Zoom Pro account which is part of the university license
 
 ## Collaborative software
+
+
+Review 
 
 For writing, we collaborate using GoogleDocs. For code and analyses we encourage the use of version control (see Wilson et al. paper for what this could look like), stepping toward the use of git and github for sharing code and analyses. We believe there are many advantages of using these tools to help simplify workflows and shift cognitive load to the science being done rather than on organization and bookkeeping (which computers are good at). Recognizing that these tools represent a learning curve, we provide training in their use, and also encourage alternatives for sharing and documenting work. For example, code and analyses may also be shared among collaborators using a Google Drive folder.  
 
 ## Backups and set up to Lab storage server 
 
-The average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g. through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. For information on logging on and accessing this, 
-see information provided on a [GitHub issue](https://github.com/thefaylab/lab-chat/issues/5)
-
+The average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g. through Dropbox, Google Drive, etc.), and something that works automatically is typically ideal.  
 
 ## Introductory R learning resources {#learnr}
 
@@ -48,7 +46,4 @@ Learn R from within R with interactive sessions using [swirlstats.com](swirlstat
 
 The [carpentries R lessons](https://datacarpentry.org/R-ecology-lesson/) are also a fab resource.  
 
-
-## TMB and ADMB
-[resources detail]
 
