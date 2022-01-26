@@ -2,8 +2,7 @@ welcome
 intro
 how-we-meet
 how-we-give-feedback
-how-we-share-things-and-send-them-to-gavin
-shared-lab-resources
+how-we-share-things-internally-and-with-the-rest-of-the-world
 culture
 code
 short-version
