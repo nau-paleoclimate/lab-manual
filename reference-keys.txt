@@ -60,7 +60,7 @@ phd-students
 courses
 computing
 overview-of-computing-at-nau
-hig-performance-computing-facilities-at-nau
+high-performance-computing-facilities-at-nau
 administrator-privileges
 remote-meetings-via-zoom
 collaborative-software
