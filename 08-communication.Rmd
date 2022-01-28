@@ -1,8 +1,11 @@
 # Communication {#communication}
 
 Acknowledge communication and engage with others about your work. This includes communication with the lab team, your peers, collaborators, and also communicating your work to others.
+
 If someone works on something for you or provides you with feedback on your work, thank them and engage with them on their feedback. Our science improves by engaging with conversations about your work. View such interactions as opportunities to be collaborative rather than evaluative. Chances are if someone asks you questions about your work it is because they are interested in your science.   
+
 Acknowledging communication and thanking others for their work is part of the profession, and it also helps collaboration by continuing conversation.  
+
 While our philosophy applies, in that you shouldn't feel like you have to be on email all the time, don't let you email inbox become a black hole where questions / thoughts  get sucked into and no response emerges.  
 
 We also believe in being intentional in communicating our work. While publishing and conference presentations are thought of as the standard forms in which science is disseminated, there are a number of ways in which you can communicate your work with others, depending on your audiences and chosen levels of engagement. You should always invest in these at the level that is of interest to you. Here are some things we recommend as members of our team.  
@@ -19,7 +22,9 @@ Keep your CV up to date. We share our CVs within the group in [NPM: we need this
 
 
 ### Google Scholar profiles
+
 Having a Google Scholar profile is a very easy way to curate your web presence and have a place where people can find you and your published papers and reports.  
+
 We recommend everyone sets up a Google Scholar profile as soon as they have a paper or technical report. It takes about 5-10 minutes to set up, and one advantage is that Google Scholar self-updates and will add your papers and citations as you publish and people use your work. This is a really easy step to creating a web presence without having to set up a website.
 
 
