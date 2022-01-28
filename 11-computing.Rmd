@@ -5,7 +5,7 @@ Because our work often is quantitative, research computing skills are an importa
 ## Overview of Computing at NAU
 As a student of NAU, Information Technology Services (CITS) provides access to essential resources and help when you need it. Information on how to set up your NAU login can be found on the [Somewhere, TBD](). A list of available programs and licensed software can be found on the [Software Licensing page]().
 
-## Hig performance computing facilities at NAU
+## High performance computing facilities at NAU
 Once you are set up with your NAU login, you will need to submit an Access Request Form to gain access to Monsoon our HPC cluster. This form can be found [here](https://in.nau.edu/hpc/).
 
 ## Administrator Privileges
