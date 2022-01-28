@@ -2,14 +2,15 @@
 
 [More information about our research]
 
-[To come: recommended reading list] We should do this!
+[To come: recommended reading list] We should do this!  [MPE: What would the readings cover?  Stuff like "How to be a scientist"?]
 
 ## How we meet
 
 Currently, we meet as a group in-person and on zoom on Thursday mornings, from 9-10:30. Students and postdocs also meet 1:1 in person or on Zoom with their advisor, typically on a weekly basis. 
-We use Googledocs to set agendas, record decisions made, and outline action items during meetings. 
-Each lab member has their own google doc for their 1:1 meetings. 
-Prior to each meeting, create your agenda for that meeting there.  
+
+We use Google Docs to set agendas, record decisions made, and outline action items during meetings. 
+
+Each lab member has their own Google Doc for their 1:1 meetings.  Prior to each meeting, create your agenda for that meeting there.  [MPE: Do people do this?  If we want to encourage it, perhaps we should make a short section with recommendations later on.]
 
 ## How we give feedback
 
@@ -35,7 +36,9 @@ Ideas: We have an NAU-Paleoclimate Slack that we use extensively, for group, sma
 NPM: I like this idea, should adopt? *We maintain a lab Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.*
 
 NPM: Some more ideas here: 
+
 ## Shared lab resources 
+
 Where to find shared resources:
 - Google Drive - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes for each semester
 - GitHub - nau-paleoclimate is the shared GitHub account for the lab
