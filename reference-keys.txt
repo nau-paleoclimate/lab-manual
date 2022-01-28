@@ -3,6 +3,7 @@ intro
 how-we-meet
 how-we-give-feedback
 how-we-share-things-internally-and-with-the-rest-of-the-world
+shared-lab-resources
 culture
 code
 short-version
