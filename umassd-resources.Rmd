@@ -1,6 +1,5 @@
-# NAU resources {#nau-resources}
+# UMASS D resources {#umassd-resources}
 
-## General information about NAU and SES
 
 **THIS NEEDS TO BE UPDATED FOR NAU**
 
