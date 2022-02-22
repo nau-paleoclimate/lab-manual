@@ -16,7 +16,7 @@ rmd_files: [
   "academics.Rmd",
   "courses.Rmd",
   "computing.Rmd",
-  "nau-resources.Rmd",
+  "nau-resources.Rmd"
 #  "smast-resources.Rmd",
 
 output_dir: "docs"
